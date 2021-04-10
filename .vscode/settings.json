@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "*.ttss": "css",
+        "*.ttml": "xml"
+    },
+    "editor.tabSize": 2,
+    "editor.formatOnSave": true
+}
